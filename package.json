@@ -1,0 +1,26 @@
+{
+  "name": "ft-data",
+  "version": "1.0.0",
+  "description": "NodeJS program to fetch data for fitness tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arronlai/ft-data.git"
+  },
+  "keywords": [
+    "nodeJS"
+  ],
+  "author": "Arron Lai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arronlai/ft-data/issues"
+  },
+  "homepage": "https://github.com/arronlai/ft-data#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "superagent": "^5.0.5"
+  }
+}
